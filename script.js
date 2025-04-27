@@ -161,7 +161,7 @@ function calculadoraMenu() {
         mostrarHistorial();
         break;
       case '6':
-        alert("¡Gracias por usar la calculadora con registro e historial!");
+        alert("Has salido de la calculadora!");
         break;
       default:
         alert("Opción inválida. Por favor, elige una opción del menú.");
